@@ -522,7 +522,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url("../img/kay-in-spak.PNG") center center no-repeat;
+  background: url("../img/kay-in-spak.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
